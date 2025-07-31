@@ -11,9 +11,8 @@ Con este proyecto podrás ingresar nombres y sortear aleatoriamente quién regal
 
 ## Tecnologías utilizadas
 
-- HTML5
-- CSS3
 - JavaScript
+- HTML y CSS entregado como base
 
 ## Estructura del proyecto
 /amigo-secreto/
